@@ -1,6 +1,6 @@
 baseURL = "https://WillieKeith.github.io/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "Weifan Zhou's Personal Blog"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
@@ -53,7 +53,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     # Edit by yourself:
     GithubEdit = "https://github.com/WillieKeith/WillieKeith.gitbub.io/edit/master/content/"
     copyright = "&copy;"
-    copyrightYear = "2020-2021"
+    copyrightYear = "2023-2023"
     # Edit by yourself:
     GithubRepo = "https://github.com/WillieKeith/REPONAME"
     # Edit by yourself:
@@ -61,7 +61,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "media/hugo-logo.png" # you can change it
+  url = "/img/Weifan-icon.jpg" # you can change it
   width = 50.0
   height = 50.0
   alt = "Hugo-ht"
