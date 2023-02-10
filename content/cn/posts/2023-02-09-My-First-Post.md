@@ -12,7 +12,7 @@ toc: false
     
 <p>不正经话题：本人自2014起关注k-pop，2015-2017及2019曾是BTS粉丝，但日后淡出饭圈，目前比较欣赏eaJ的音乐。</p>
 
-<p>这是我的第一篇博客。感谢教程指导：https://stormwy.github.io/post/start_blogging_with_hugo/</p>
+<p>感谢教程指导：https://stormwy.github.io/post/start_blogging_with_hugo/</p>
 
 <p>以及在此感谢Hugo主题及搭建教程的贡献者Haohong Tao：https://hongtaoh.com/ </p>
 
