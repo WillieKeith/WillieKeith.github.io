@@ -6,7 +6,7 @@ slug:
 draft: false
 toc: false
 ---
-<p>你好，我是来自Illinois Wesleyan University的学生Weifan Zhou，主修心理学与计算机。会弹钢琴，琴龄10年（实际为12年，但有2年没怎么练），业余水平。本科曾经申请了荷兰，但是因为不确定专业，在美国几家offer里选了所奖最多的。</p>
+<p>你好，我是来自Illinois Wesleyan University的学生Weifan Zhou，主修心理学与计算机。会弹钢琴，琴龄10年（实际为12年，但有2年没怎么练），业余水平。本科曾经主申荷兰，但是因为不确定专业方向，忍痛拒绝了欧洲大陆的offer，最终选择了美国（好转专业）给奖最多的学校，踏上了北美的土地。</p>
 
 <p>业余时间爱好占星（世界运势）及人格研究。I started learning MBTI since 2019 & Ennegramm since 2021。大五、本能类型等等都接触过，但最喜欢的理论是tritype。曾经有个pdb账号，但是注销了。</p>
     

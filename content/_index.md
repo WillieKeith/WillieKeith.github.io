@@ -2,8 +2,8 @@
 title: Home
 ---
 
-{{<figure src="https://animalcorner.org/wp-content/uploads/2020/07/Japanese-Dog-Breeds-Akita.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+{{<figure src="file:///C:/Users/Flora/Downloads/Img/Img.html" title="Photo taken by Ke Ding at Ningbo Foreign Language School, 2022 (照片拍摄于2022年，摄影师：丁可老师)" width="450">}}
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+My name is Weifan Zhou. I am double majoring in Psychology and Computer Science at Illinois Wesleyan University. 
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
+我是周未凡，目前就读于伊利诺伊卫斯理大学心理学与计算机。
