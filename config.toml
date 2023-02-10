@@ -1,4 +1,4 @@
-baseURL = "https://WillieKeith.github.io/"
+baseURL = "https://weifanz.github.io/"
 languageCode = "en-us"
 title = "Weifan Zhou's Personal Blog"
 theme = "hugo-ht"
@@ -51,13 +51,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxVersion = "2.7.5"
     favicon = "media/hugo-logo.png"
     # Edit by yourself:
-    GithubEdit = "https://github.com/WillieKeith/WillieKeith.gitbub.io/edit/master/content/"
+    GithubEdit = "https://github.com/weifanz/weifanz.gitbub.io/edit/master/content/"
     copyright = "&copy;"
     copyrightYear = "2023-2023"
     # Edit by yourself:
-    GithubRepo = "https://github.com/WillieKeith/REPONAME"
+    GithubRepo = "https://github.com/weifanz/REPONAME"
     # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/WillieKeith/WillieKeith.github.io/master/content/" 
+    ContentSource = "https://raw.githubusercontent.com/weifanz/weifanz.github.io/master/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
