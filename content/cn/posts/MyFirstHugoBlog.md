@@ -1,0 +1,26 @@
+---
+title: "MyFirstHugoBlog"
+date: 2023-02-09T17:19:24-06:00
+author: "Weifan Zhou"
+slug:
+draft: true
+toc: false
+---
+    你好，我是来自Illinois Wesleyan University的学生Weifan Zhou，主修心理学与计算机。会弹钢琴，琴龄10年（实际为12年，但有2年没怎么练），业余水平。本科曾经申请了荷兰，但是因为不确定专业，在美国几家offer里选了所奖最多的。
+
+    业余时间爱好占星（世界运势）及人格研究。I started learning MBTI since 2019 & Ennegramm since 2021。大五、本能类型等等都接触过，但最喜欢的理论是tritype。曾经有个pdb账号，但是注销了。
+    
+    不正经话题：本人自2014起关注k-pop，2015-2017及2019曾是BTS粉丝，但日后淡出饭圈，目前比较欣赏eaJ的音乐。
+
+    这是我的第一篇博客。感谢以下教程指导：
+    https://stormwy.github.io/post/start_blogging_with_hugo/
+
+    以及在此感谢Hugo主题及搭建教程的贡献者Haohong Tao：
+    https://hongtaoh.com/
+
+    初来乍到，请多指教。
+    谢谢。
+    Thank you.
+    Danke.
+
+    2023年2月9日
