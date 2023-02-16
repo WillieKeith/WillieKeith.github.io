@@ -1,53 +1,23 @@
 ---
-title: "王大锤简历"
+title: "Curriculum Vitae"
 type : list-single
-toc: true
 ---
 
-姓名：王大锤
+## Weifan Zhou
+Illinois Wesleyan University  
+1207 1/2 N. Main St.  
+Bloomington, IL. 61701 USA  
 
-职业：演员
+Email: wzhou@iwu.edu
 
-英文名：David Wang
+### Current Majors
+Computer Science & Psychology  
+(Might change to CS major + Psyc & Math minors)  
 
-代表作品：《万万没想到》
+### Education
+2022 - , Illinois Wesleyan University, USA  
+2019 - 2022, Ningbo Foreign Language School, China  
 
-电话：+86-800-900-1000
-
-个人网站：www.wangdachui.com
-
-生日：2000年0月0日
-
-## 教育经历
-
-2010，北京大学，喜剧演艺（本科），GPA: 3.99/4.00
-
-2013，清华大学，剧本创作（硕士），GPA: 3.99/4.00
-  
-   - 毕业论文：《论中国的喜剧创作为什么如此单调》
-   - 答辩委员：李大锤、张大锤、司马大锤
-
-## 发表
-### 期刊
-
-1. 王大锤 (2012),中国的喜剧和美国的喜剧有什么不同, *《瞎扯》115*(17), 001-010
-2. 王大锤、钱大锤 (2020), 情景喜剧在中国能吃得开吗, *《再瞎扯》116*(18), 9874-9880
-
-### 专著
-
-王大锤 (2019), 《论一个喜剧演员的基本修养》，北京：瞎扯出版社, ISBN 0-987-654-3210
-
-## 参演作品
-
-...
-
-## 指导学生
-
-...
-
-
-
-
-
-
-
+### Grants, honours & awards
+2022- , Merit-based Scholarship  
+2021 German Summer Camp Scholarship, Goethe Institute China
