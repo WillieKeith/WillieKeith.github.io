@@ -55,13 +55,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     copyright = "&copy;"
     copyrightYear = "2023-2023"
     # Edit by yourself:
-    GithubRepo = "https://github.com/weifanz/REPONAME"
+    GithubRepo = "https://github.com/weifanz/weifanz.github.io"
     # Edit by yourself:
     ContentSource = "https://raw.githubusercontent.com/weifanz/weifanz.github.io/master/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "media/hugo-logo.png" # you can change it
+  url = "media/Weifan-icon.png" # you can change it
   width = 50.0
   height = 50.0
   alt = "Hugo-ht"
