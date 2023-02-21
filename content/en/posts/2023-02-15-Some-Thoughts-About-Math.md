@@ -30,4 +30,4 @@ toc: false
 
 <p>Today when my group wrote down "loves(x,y)", the professor talked with us. "We need to define 'loves'... （can't remember) We need to make sure it's x loves y, not reversible" (ahh, a sad story (lol)), he beamed, "It's quite Valentine's Day, right?"</p>
 <p></p>
-<p>(Written on Feb. 15, when I sent the email to math faculty about enrolling in the math minor. Unfortunately, I was not replied. Paragraphs revised in Feb 20.)</p>
+<p>(Written on Feb. 15, when I sent the email to math faculty about enrolling in the math minor. Unfortunately, I was not replied.)</p>
