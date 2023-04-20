@@ -1,6 +1,6 @@
 # WillieKeith.github.io
 
-This is Weifan Zhou's personal website: https://WillieKeith.github.io. 
+This is Weifan Zhou's personal website: https://weifanz.github.io. 
 It is based on the theme of hugo-ht.
 
 And thanks to Hongtao Hao's instruction of building website:
