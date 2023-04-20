@@ -26,6 +26,8 @@ Psychology (Minor)
 ACM club
 
 ### Courses
+<sub>
+
 2022 Fall: 
 - Film & Fiction of the CW
 - Roman Hist
@@ -40,9 +42,14 @@ ACM club
 - Bio Foundations for Non Majors (NEUR 110. Not pre-med)
 - Applied Minor Piano + Piano Accompany
 
+2023 Summer:
+- Calc II
+- Applied Linear Algebra
+
 2023 Fall
 - Software Dev.
 - Perception & Cognition
-- Discrete Math
+- Computational Discrete Math
 - Music Theory I
 - Applied Minor Piano + Piano Accompany
+</sub>
