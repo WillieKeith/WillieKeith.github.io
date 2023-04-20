@@ -10,9 +10,9 @@ Bloomington, IL. 61701 USA
 
 Email: wzhou@iwu.edu
 
-### Current Majors
-Computer Science & Psychology  
-(Might change to CS major + Psyc & Math minors)  
+### Current Study Areas
+Computer Science (Major)
+Psychology (Minor)
 
 ### Education
 2022 - , Illinois Wesleyan University, USA  
