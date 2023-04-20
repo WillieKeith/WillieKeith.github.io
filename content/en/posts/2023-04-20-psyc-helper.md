@@ -16,13 +16,13 @@ toc: false
 <p>For behaviral neuroscience, though I am not sure about grading scales, you can think about those:</p>
 
 1. Background <- Inspired by
-2. Brain functions & places <- Experiments which extends (1)
-3. Lesion <- Case studies which supports (2)
+2. Brain functions & places <- Experiments which extend (1)
+3. Lesion <- Case studies which support (2)
 - <sup>Above is my way of reaching pages. Hope they are helpful for organizing papers.</sup>
 
 <p>For reading papers:</p>
 
 1. Background: previous research
-2. Equippment: structure or brain activity?
+2. Equippments: static or dynamic? Looking for brain structure or brain activity?
 3. Experiments
 4. Conclusion: support what
