@@ -18,7 +18,7 @@ toc: false
 1. Background <- Inspired by
 2. Brain functions & places <- Experiments which extends (1)
 3. Lesion <- Case studies which supports (2)
-<sup>Above is my way of reaching pages. Hope they are helpful for organizing papers.</sup>
+- <sup>Above is my way of reaching pages. Hope they are helpful for organizing papers.</sup>
 
 <p>For reading papers:</p>
 
