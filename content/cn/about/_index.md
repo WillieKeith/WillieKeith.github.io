@@ -23,33 +23,5 @@ Psychology (Minor)
 2021 German Summer Camp Scholarship, Goethe Institute China
 
 ### Activities
-ACM club
-
-### Courses
-<sub>
-
-2022 Fall: 
-- Film & Fiction of the CW
-- Roman Hist
-- Gen Psyc
-- CS I (Python)   
-- Applied Minor Piano + Piano Accompany
-
-2023 Spring:
-- CS II (C++ & some data structure)
-- Behaviral Neuroscience
-- Applications of Sets, Logic & Recursion (including some symbolic logic and proof)
-- Bio Foundations for Non Majors (NEUR 110. Not pre-med)
-- Applied Minor Piano + Piano Accompany
-
-2023 Summer:
-- Calc II
-- Applied Linear Algebra
-
-2023 Fall
-- Software Dev.
-- Perception & Cognition
-- Computational Discrete Math
-- Music Theory I
-- Applied Minor Piano + Piano Accompany
-</sub>
+ACM Club
+Piano Accompaniment
