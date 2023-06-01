@@ -12,7 +12,7 @@ toc: false
 <p>Fortunately, I had saved the game when the population wasn't as high, so I paused the game and reverted back to that period. I couldn't remember when or why I had clicked the pollution button, but I discovered that the land near the industrial areas was polluted. I thought the office zones alone could generate enough income for the city, so in the interest of sustainability, I demolished all the industrial areas and replaced them with office and business zones. Gradually, the land pollution decreased, and I noticed a decline in the number of patients near those old industrial areas.</p>
 
 
-<img src=/media/Game_pic_1.png alt="Pollution before reallocation">
+<img src=/media/Game_pic_1.jpg alt="Pollution before reallocation">
 
 <p>I still observed some land pollution even though there was no industrial zone nearby. After some investigation, I realized that I had placed some trash incineration plants close to the residential areas. It was impossible to destroy them because I didn't have enough budgets to support recycling policies, and the city needed those buildings to handle waste.</p>
 <p>To solve this problem, I built some roads at the far end of the city and relocated the waste disposal stations there, ensuring that pollution would not be near residential areas. Miraculously, during later hours, hardly any new patients appeared in the districts surrounding the original trash stations.</p>
