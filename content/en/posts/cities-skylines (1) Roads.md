@@ -1,5 +1,5 @@
 ---
-title: "Game Review: Cities:Skylines (1) -- Roads & Population"
+title: "Game Review: Cities: Skylines (1) -- Roads & Population"
 date: 2023-05-31T21:23:33-04:00
 author: "Weifan Zhou"
 slug:
