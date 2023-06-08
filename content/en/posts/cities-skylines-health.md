@@ -12,7 +12,7 @@ toc: false
 <p>Fortunately, I had saved the game before the death tide, so I paused the game and reverted back to that period. I couldn't remember when or why I had clicked the pollution button, but I discovered that the land near the industrial areas was polluted. I thought the office zones alone could generate enough income for the city, so in the interest of sustainability, I demolished all the industrial areas and replaced them with office and business zones. Gradually, the land pollution decreased, and I noticed a decline in the number of patients near those old industrial areas.</p>
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
-<a href=/media/pic_2.jpg itemprop=contentUrl>
+<a href=/media/Game_pic_1.jpg itemprop=contentUrl>
 <img itemprop=thumbnail src=/media/Game_pic_1.jpg width="600" style="display: block; margin: 0 auto" alt="Pollution (brown parts) before reallocation">
 </a>
 <figcaption>
