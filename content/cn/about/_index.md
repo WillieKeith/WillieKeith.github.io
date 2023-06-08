@@ -23,5 +23,5 @@ Psychology (Minor)
 2021 German Summer Camp Scholarship, Goethe Institute China
 
 ### Activities
-ACM Club
+ACM Club    
 Piano Accompaniment
