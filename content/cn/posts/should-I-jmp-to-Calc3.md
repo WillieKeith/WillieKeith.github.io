@@ -11,7 +11,16 @@ toc: false
 <p>在Calc 2开课前一个月，我认为自己对Calc 1仅限于应用层面，并没有完全理解定义及证明。本人不是太喜欢纯看教科书，于是我用了一个叫Brilliant的软件看一下大致内容并对照着搜，终于发现product rule, chain rule等等都基于limit definition of derivative（重要），而且居然有证明。Google或者YouTube一搜几条rules的证明，果然都有。顿时我纳闷，我高中都在干嘛……（笑）</p>
 <p>好像高中也没怎么讲过Proof。于是我自己试了试。<a href=https://www.youtube.com/watch?v=m0LZX19DyyI/ target=_blank rel="noreferrer noopener">Chain Rule参考YouTube</a>。</p>
 
-<img src=/media/pic_2.jpg width="300" style="display: block; margin: 0 auto" alt="闲着无聊，照着YouTube证Chain Rule。凑活着看吧……">
+<figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+<a href=/media/pic_2.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/pic_2.jpg width="300" style="display: block; margin: 0 auto" alt="闲着无聊，照着YouTube证Chain Rule。凑活着看吧……">
+</a>
+<figcaption>
+<p>
+闲着无聊，照着YouTube证Chain Rule。凑活着看吧……
+</p>
+</figcaption>
+</figure>
 
 <p>不过自己在大一下学期的 Applications of Sets, Logic, and Recursion课之前，不知道证明为何物。如果要上Calculus，不管是1，2还是3，如果对证明没有概念，可以把微积分放一放，先上 Logic & Proof（大部分学校的计算机系应该会开这门课），试水一下初步的证明，回头再看微积分几个definition的时候，尝试证明，就容易理解很多了。</p>
 <p>如果你上过大学教授（社区大学也可以）的课，或者来自于一线城市，拥有较好的启蒙老师，又或者你重新自学过微积分1-2并明白了大部分内容（包括证明，并做到对证明没有太大压力），那么你可以考虑跳级。如果没有满足以上条件之一，请谨慎。</p>
