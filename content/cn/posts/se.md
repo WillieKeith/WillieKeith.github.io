@@ -1,5 +1,5 @@
 ---
-title: "MBTI（2）:Se+Ni & Ne+Si -- 箭头与网"
+title: "MBTI与荣格八维（2）:Se+Ni & Ne+Si -- 箭头与网"
 date: 2023-06-29T16:57:29-04:00
 author: "周未凡"
 slug:
