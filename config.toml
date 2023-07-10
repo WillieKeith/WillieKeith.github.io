@@ -141,3 +141,8 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [imaging]
 quality = 100
+
+[params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
+    enable = true
+    repo = "weifanz/weifanz.github.io"    # The repo to store comments
+    issueTerm = "pathname"
