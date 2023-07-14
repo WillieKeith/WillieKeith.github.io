@@ -6,5 +6,5 @@ slug:
 draft: false
 toc: false
 ---
-<p>I found the email verification system of Pearson wiered. It allows a new account to complete sign-up process BEFORE email verificaion, whereas on other websites, the account cannot be created or used until the user finishes email verification.</p>
-<p>Here is the problem: If I mistakenlly type the adress wrong twice, not just a typo but by entering a wrong domain name (for example, if I input ".com" instead of ".edu") and I never realize this error, I would never be able to complete email verification. Typing the email address twice might not prevent such an issue.</p>
+<p>I found the email verification system of Pearson wiered. It allows a new account to complete sign-up process before email verificaion, whereas on other websites, the account cannot be created or used until the user finishes email verification.</p>
+<p>Here is the problem: If I mistakenly type the adress wrong twice, not just a typo but by entering a wrong domain name (for example, if I input ".com" instead of ".edu") and I never realize this error, I would never be able to complete email verification. Typing the email address twice might not prevent such an issue.</p>
