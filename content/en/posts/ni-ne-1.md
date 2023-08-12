@@ -1,0 +1,19 @@
+---
+title: "Empathy and Sympathy -- Based on Jungian Cognitive Functions"
+date: 2023-08-12T10:29:42-04:00
+author: "Weifan Zhou"
+slug:
+draft: false
+toc: false
+---
+<p><b>This article is a translation to my previous Chinese post written on May 18. However, there are some revisions. </b></p>
+<p>--------------------------</p>
+<p>Many people have taken the MBTI test and claimed that they have changed from "xxxx" to "xxxx". However, this assertion is incorrect because 16-personality test is based on Jungian cognitive functions, which determine people's innate thinking process. It is likely that these individuals received inaccurate results in at least one MBTI test. While the 16-personality theory is valuable, the questionnare has some flaws as it focuses more on your current emotional state than your thinking process. If you are interested in 16 personalities, I recommend exploring the concepts of Jungian Cognitive Functions, Ennegrams, and Instinctual Variant. You can also ask your friends and parants to learn how people make decisions differently and look up Reddit posts and discussions. Most importantly, do not rely solely on tests! Instead, verify the theory and engage with people around you or online. </p>
+<p>Returning to today's topic, some individuals receive test results between INTP, INFP and INFJ bust struggle to determine which result fits them best. They ask, "Which personality am I?" If you are facing a similar dilemma, here is a question you can ask yourself:</p>
+<p>"Do I put myself in other's shoes?" Alternatively, consider whether you use "empathy" or "sympathy" more.</p>
+<p>If you use empathy more, you are likely an Introverted Feeling (Fi) user, which includes INFP, ISFP, ENFP, ESFP, INTJ, ISTJ, ENTJ, and ESTJ.</p>
+<p>If you use sympathy more, you are likely an Extroverted Feeling (Fe) user, including INFJ, ISFJ, ENFJ, ESFJ, INTP, ISTP, ENTP, and ESTP.</p>
+<p>Fi users tend to envision themselves as characters in movies, dramas, novels, etc., experiencing strong emotions as if they are the one who experiences plots rather than merely observing. They might experience intense feelings such as "I hate this person" from the perspective of the main character, and they are more susceptible to being emotionally affected by the plot (and sometimes be "hurt" by plots).</p>
+<p>In real life, Fi users often try to understand others' emotion by imagining "if I were him/her" and feel what those individuals feel, not just observing and comforting others. The problem is, this approach sometimes fail if others have a different thinking process that Fi users cannot simulate. Additionally, Fi users may assume others share the same point of view as them, so some Fi users rely on verbal feedback like "if you feel displeased with my behavior, tell me". While many non-Fi users also need this feedback from others, it's more crucial for Fi users since Fi is more self-centered (this is not meant as a derogatory comment). </p>
+<p>Fe users tend to be a spectators. They can directly "observe" others' emotions without immersing themselves in others' feelings. In most cases, they can recognize others' emotions more quickly than Fi users since in their mind, their is an organized "social pattern" (like a framework) summarized from the crowd's behaviors. The social pattern allow them to infer how others might feel if they behave in a certain way. When reading novels, watching movies, or hearing others' stories, they remain observers, which means they are less likely to be "hurt" by plots. And they more tolerence with sad endings compared to Fi users. The drawback is that some Fi individuals perceive Fe users less sincere.</p>
+<p>There are no right or wrong answers regarding which feeling process, Fi or Fe, is better. However, it's valuable to understand how individuals perveive emotions differently.</p>
