@@ -1,4 +1,4 @@
-# WillieKeith.github.io
+# weifanz.github.io
 
 This is Weifan Zhou's personal website: https://weifanz.github.io. 
 It is based on the theme of hugo-ht.
