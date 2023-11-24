@@ -1,27 +1,23 @@
 ---
-title: "Curriculum Vitae"
+title: "关于我"
 type : list-single
 ---
 
-## Weifan Zhou
-Illinois Wesleyan University  
-1207 1/2 N. Main St.  
-Bloomington, IL. 61701 USA  
+### 关于我
+<p>你好，我叫周未凡，目前就读于伊利诺伊卫斯理大学计算机系。这是一所小型的文理学院（liberal art college，美国一种小型的本科学院，注重于通识教育与小班化）。</p>
 
-Email: wzhou@iwu.edu
+### 爱好
+- 钢琴：目前我在 Illinois Wesleyan 继续学习钢琴，同时进行钢琴伴奏。
+- 游戏：我最喜欢的游戏是《城市天际线》，其次是《超越光速》、《纪元1800》、《深圳I/O》。
+- 玄学：稍微了解过一些星盘、二十八星宿相关的知识，但是不会也没必要做预测。
+- 性格分析：仍然在学习MBTI、九型、副型等等（这就是为啥我仍然没事翻看K-POP）。
 
-### Current Study Areas
-Computer Science (Major)   
-Psychology (Minor)
+### 联系方式
+- 邮箱：wzhou@iwu.edu
 
-### Education
-2022 - , Illinois Wesleyan University, USA  
-2019 - 2022, Ningbo Foreign Language School, China  
+### 关于这个博客
+- 本站文章有中英文的，内容并不一样。
+- 感谢<a href = "https://hongtaoh.com/" target = "_blank">郝洪涛</a>提供建站教程及模板。
 
-### Grants, honours & awards
-2022- , Merit-based Scholarship  
-2021 German Summer Camp Scholarship, Goethe Institute China
-
-### Activities
-ACM Club    
-Piano Accompaniment
+### 其它
+- 我于2023年11月正式加入 Sigma Alpha Iota 姐妹会（严格上来说这是个Faternity）。里面都是学音乐的。
