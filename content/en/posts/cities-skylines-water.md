@@ -12,9 +12,10 @@ toc: false
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/water-pollution.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/water-pollution.jpg width="300" style="display: block; margin: 0 auto" alt="if you put water bump above sewage drain, your citizens are going to be sick">
+<img itemprop=thumbnail src=/media/water-pollution.jpg width="600" style="display: block; margin: 0 auto" alt="if you put water bump above sewage drain, your citizens are going to be sick">
 </a>
-<figcaption>
+<figcaption>If you put water bump above sewage drain, your citizens are going to be sick </figcaption>
+</figure>
 
 <p>Pollution itself is unavoidable, but it should be separated from residents. At the very least, sewage drains should not be located above any water pumps. If a city is going to expand, especially at the bottom of the river, pump more water from the upper river instead of where the new city is located.</p>
 
