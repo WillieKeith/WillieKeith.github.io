@@ -24,3 +24,5 @@ toc: false
 <p>If the pump is at the bottom of the river, some cities above that may face the risk of floods because more water accumulates at the top of the river.</p>
 
 <p>What if the dam is at the intersection of two rivers? The dam may change the direction of river flows, and if there is a drain on the river, residents may drink polluted water after the river direction changes.</p>
+
+<p>Thus, when considering locations of water pumps, sewage drains, and dams, especially when building a new city near an old one, consider the direction of rivers.</p>
