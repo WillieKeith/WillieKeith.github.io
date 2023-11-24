@@ -1,10 +1,11 @@
 ---
 title: "About Me"
 type : list-single
+lastmod: 2023-11-24T00:00:00+00:00
 ---
 
 ### About Me
-<p>Hi, my name is Weifan Zhou (pronounced as way-fa:n Jhoh). My another name is Flora, and you can use both names to call me. I am a sophmore in Illinois Wesleyan University, a liberal art college in the United States.</p>
+- Hi, my name is Weifan Zhou (pronounced as way-fa:n Jhoh). My another name is Flora, and you can use both names to call me. I am a sophmore in Illinois Wesleyan University, a liberal art college in the United States.
 
 ### Hobbies
 - Piano: I am learning piano in Illinois Wesleyan University as a non-major student, and I am a piano accompanist.
