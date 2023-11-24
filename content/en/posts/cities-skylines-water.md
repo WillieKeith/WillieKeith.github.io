@@ -11,8 +11,8 @@ toc: false
 <p>Imagine a river flowing from the north to the south, passing through a city. What if the water pump was placed in the south, at the bottom of the river, while the sewage drain was at the top of the river? Water is polluted, and your residents are drinking water pumped from a polluted area. If you try this out in Cities: Skylines, you will find your residents getting sick several weeks after you place the water pump and drain.</p>
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
-<a href=/media/water-pollution.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/water-pollution.jpg width="600" style="display: block; margin: 0 auto" alt="if you put the water pump above sewage drain, your citizens are going to be sick">
+<a href=/media/water--pollution.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/water--pollution.jpg width="600" style="display: block; margin: 0 auto" alt="if you put the water pump above sewage drain, your citizens are going to be sick">
 </a>
 <figcaption>If you put the water pump above sewage drain, your citizens are going to be sick </figcaption>
 </figure>
