@@ -18,7 +18,7 @@ lastmod: 2023-11-24T00:00:00+00:00
 
 ### 关于这个博客
 - 本站文章有中英文的，内容并不一样。
-- 感谢<a href = "https://hongtaoh.com/" target = "_blank">郝洪涛</a>提供建站教程及模板。
+- 感谢<a href = "https://hongtaoh.com/" target = "_blank">郝鸿涛</a>提供建站教程及模板。
 
 ### 其它
 - 我于2023年11月正式加入 Sigma Alpha Iota 姐妹会（严格上来说这是个Faternity）。里面都是学音乐的。
