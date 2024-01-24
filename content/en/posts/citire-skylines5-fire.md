@@ -1,5 +1,5 @@
 ---
-title: "Cities: Skylines(5) -- Fire"
+title: "Cities: Skylines (5) -- Fire"
 date: 2023-11-28T12:44:14-06:00
 author: "Weifan Zhou"
 slug:
