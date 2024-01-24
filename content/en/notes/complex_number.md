@@ -36,10 +36,10 @@ To use pairs, we can note down in <code>$(r, \theta)$</code> form. For example, 
 If you have learned Calc 2, you may also have heard of Taylor Series. You can use Taylor Series to get a wierd form:
 $$\cos{\theta}+i\sin{\theta}=e^{i\theta}$$
 
-Here is a proof I saw from YouTube: <iframe width="560" height="315" src="https://www.youtube.com/embed/GqvDUcU8F3I?si=VGYh7lccROpKH5nW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Here is a proof from YouTube: <iframe width="560" height="315" src="https://www.youtube.com/embed/GqvDUcU8F3I?si=VGYh7lccROpKH5nW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Then, the complex number <code>$z=x+iy$</code> can be represented as:
- $$z=re^{i\theta}$$
+ $$z=r(\cos{\theta}+i\sin{\theta})=re^{i\theta}$$
 
 When you have the <code>$e$</code> form of the complex number, if you would like to calculate the root or power of it, it's becoming simpler.
 
