@@ -1,5 +1,5 @@
 ---
-title: "Complex Number & Polar Coordinates (1)"
+title: "Complex Numbers & Polar Coordinates (1)"
 date: 2024-01-24T13:47:22-06:00
 author: "Weifan Zhou"
 slug:
@@ -10,7 +10,7 @@ This is a complex number: $$z = x + iy$$
 A complex number, as a combination of a real number (<code>$x$</code>) and an imagenary number (<code>$iy$</code>, or <code>$yi$</code>, it doesn't matter) can be sketched with 2-dimentional axis. Note that <code>$y$</code> is a real number, and <code>$i$</code> is an imagenary number (<code>$i = \sqrt{-1}$</code>).
 
 This is an example from [mathbits](https://mathbitsnotebook.com/Algebra2/ComplexNumbers/CPGraphs.html):
-<img itemprop="thumbnail" src=image.png alt="sketch complex number">
+![sketch complex number](\image.png)
 
 The real axis represents the real number <code>$x$</code>, with each unit representing 1. The imagenary axis represents the imagenary part <code>$iy$</code>, each unit representing <code>$i$</code>, and <code>$y$</code> represents the number of units.
 
@@ -21,7 +21,7 @@ If you have learned Calc 2, you may have heard about polar coordinates. We can a
 For example, <code>$z=x+iy$</code> can be represented as:
  $$z= r(\cos{\theta}+i\sin{\theta})$$
 Here is an image copied from [Online Math Learning Website](https://www.onlinemathlearning.com/complex-plane-hsn-cn4.html):
-<img itemprop="thumbnail" src=image-1.png alt="Polar Coordinates">
+![Polar Coordinates](\image-1.png)
 
 To use pairs, we can note down in <code>$(r, \theta)$</code> form. For example, <code>$z=1+i$</code> can be represented as <code>$(\sqrt{2}, \frac{\pi}{4})$</code> (45 degree angle), or to be more cautious let's write down <code>$(\sqrt{2},\frac{\pi}{4}+2k\pi)$</code>, if you rotate extra 360 degrees, 720 degrees, etc. You are back to where 45 degree line locates.
 
