@@ -47,7 +47,7 @@ When you have the <code>$e$</code> form of the complex number, if you would like
 Hmm, why do I care about this?
 Well, if someone ask you to calculate the root of complex numbers, the power of complex numbers, the mod of complex number, all the process gets easier.
 
-For example, how to calculate <code>$\big|(\frac{1+i}{1-i})^5\big|$</code>? I mean the mode, or the length of <code>$(\frac{1+i}{1-i})^5$</code>.
+For example, how to calculate <code>$\left|\left(\frac{1+i}{1-i}\right)^5\right|$</code>? I mean the mode, or the length of <code>$\left(\frac{1+i}{1-i}\right)^5$</code>.
 You can calculate the power first, or you can calculate the faction, but I am too lazy to do that. What about using the magic <code>$re^{i\theta}$</code>?
 
 $$ \left|\left(\frac{1+i}{1-i}\right)^5\right|
