@@ -1,6 +1,7 @@
 ---
-title: "Complex Numbers & Polar Coordinates (1)"
+title: "Complex Numbers & Polar Coordinates"
 date: 2024-01-24T13:47:22-06:00
+lastmod: 2024-02-03T13:47:22-06:00
 author: "Weifan Zhou"
 slug:
 draft: false
@@ -43,4 +44,16 @@ Then, the complex number <code>$z=x+iy$</code> can be represented as:
 
 When you have the <code>$e$</code> form of the complex number, if you would like to calculate the root or power of it, it's becoming simpler.
 
-(To be continued...)
+Hmm, why do I care about this?
+Well, if someone ask you to calculate the root of complex numbers, the power of complex numbers, the mod of complex number, all the process gets easier.
+
+For example, how to calculate $\big|(\frac{1+i}{1-i})^5\big|$? I mean the mode, or the length of $(\frac{1+i}{1-i})^5$.
+You can calculate the power first, or you can calculate the faction, but I am too lazy to do that. What about using the magic $re^{i\theta}$?
+
+$$ \left|\left(\frac{1+i}{1-i}\right)^5\right|
+= \left|\left(\frac{\sqrt{2}e^{i(\frac{\pi}{4})}}{\sqrt{2}e^{i(-\frac{\pi}{4})}}\right)^5\right|
+= \left|\left(e^{i\frac{\pi}{2}}\right)^5\right|
+= \left|e^{i\frac{5\pi}{2}}\right|
+= 1$$
+
+Apologize: I am too lazy to type out and consider the case of $2k\pi$ and draw the curve.
