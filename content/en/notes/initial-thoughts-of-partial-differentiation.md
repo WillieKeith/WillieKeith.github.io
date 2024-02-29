@@ -12,7 +12,7 @@ When you plan to cut a cake, you can either cut it in two ways: you can cut it f
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/Cake.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/Cake.jpg width="300" style="display: block; margin: 0 auto" alt="Imagine a complete Cake whose length and with is x and y, and whose height at each point of the surface is f(x,y)">
+<img itemprop=thumbnail src=/media/Cake.jpg width="500" style="display: block; margin: 0 auto" alt="Imagine a complete Cake whose length and with is x and y, and whose height at each point of the surface is f(x,y)">
 </a>
 </figure>
 
@@ -20,7 +20,7 @@ Imagine a complete Cake whose length and with is x and y, and whose height at ea
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/Cut_cake.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/Cut_cake.jpg width="300" style="display: block; margin: 0 auto" alt="Then you cut it from left to right, parallel to the x axis">
+<img itemprop=thumbnail src=/media/Cut_cake.jpg width="500" style="display: block; margin: 0 auto" alt="Then you cut it from left to right, parallel to the x axis">
 </a> You got a beautiful slice.
 </figure>
 
@@ -28,7 +28,7 @@ Move your eye to the right side of the whole big cake, and look at the thin slic
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/sight.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/sight.jpg width="300" style="display: block; margin: 0 auto" alt="Now each little smaller slice looks like a chip (french fries)">
+<img itemprop=thumbnail src=/media/sight.jpg width="500" style="display: block; margin: 0 auto" alt="Now each little smaller slice looks like a chip (french fries)">
 </a> Look at the height of the little cake chip (fries)!
 </figure>
 
@@ -38,7 +38,7 @@ Think about this cake slice, that your y is static. The difference for each "cak
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/chip-into-function.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/chip-into-function.jpg width="300" style="display: block; margin: 0 auto" alt="Now each little smaller slice looks like a chip (french fries)">
+<img itemprop=thumbnail src=/media/chip-into-function.jpg width="500" style="display: block; margin: 0 auto" alt="Now each little smaller slice looks like a chip (french fries)">
 </a> Let's abstract the chip (fries) height into a function.
 </figure>
 
