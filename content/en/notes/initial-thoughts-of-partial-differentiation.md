@@ -11,24 +11,24 @@ As a person who've only completed Calc 1 & 2, I just started learning some parti
 When you plan to cut a cake, you can either cut it in two ways: you can cut it from left to right, or from front to back.
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
-<a href=/media/Cake.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/Cake.jpg width="500" style="display: block; margin: 0 auto" alt="Imagine a complete Cake whose length and with is x and y, and whose height at each point of the surface is f(x,y)">
+<a href=/media/cake1.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/cake1.jpg width="500" style="display: block; margin: 0 auto" alt="Imagine a complete Cake whose length and with is x and y, and whose height at each point of the surface is f(x,y)">
 </a>
 </figure>
 
 Imagine a complete Cake whose length and with is x and y, and whose height at each point of the surface is f(x,y). Then you cut it from left to right, parallel to the x axis.
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
-<a href=/media/Cut_cake.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/Cut_cake.jpg width="500" style="display: block; margin: 0 auto" alt="Then you cut it from left to right, parallel to the x axis">
+<a href=/media/cut_cake1.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/cut_cake1.jpg width="500" style="display: block; margin: 0 auto" alt="Then you cut it from left to right, parallel to the x axis">
 </a> You got a beautiful slice.
 </figure>
 
 Move your eye to the right side of the whole big cake, and look at the thin slice. Then chop the little slice along the x axis. Now each little smaller slice looks like a chip (french fries).
 
 <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
-<a href=/media/sight.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/sight.jpg width="500" style="display: block; margin: 0 auto" alt="Now each little smaller slice looks like a chip (french fries)">
+<a href=/media/sight1.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/sight1.jpg width="500" style="display: block; margin: 0 auto" alt="Now each little smaller slice looks like a chip (french fries)">
 </a> Look at the height of the little cake chip (fries)!
 </figure>
 
