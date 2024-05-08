@@ -1,5 +1,5 @@
 ---
-title: "Map"
+title: "Cholera Death Map"
 date: 2024-05-08T02:32:23-05:00
 author: "Weifan Zhou"
 slug:
