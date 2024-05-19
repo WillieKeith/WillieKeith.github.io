@@ -27,13 +27,13 @@ To design and run a robot, one easy way is to use <a href="https://www.ros.org/"
 <code class="hljs properties">mkdir test_ws</code>
 
 2. Use <code>cd [your new folder name]</code>, for instance, <code>cd test_ws</code>, to navigaite into your directory. Then run <code>mkdir src</code> to create your source folder. (Tip: You can use <code>ls</code> to check what's inside your folder or directory.)
-3. Use <code>cd src</code> to navigate into your new blank source folder. Then initialize catkin workspace by running <code class="hljs properties">catkin_init_workspace</code>.
+3. Use <code>cd src</code> to navigate into your new blank source folder. Then initialize catkin workspace by running: <code class="hljs properties">catkin_init_workspace</code>
 4. Go back to your folder by <code>cd ..</code>, press enter, then run <code>catkin_make</code>, which will create all shenanigans (I mean a bunch of files) for you.
 5. <del>Now you need to source your file by <code>source devel/setup.bash</code>. Each time you run the program, you have to source your directory when you start your terminal by running <code>source [your directory name]/devel/setup.bash</code> after you open your linux terminal.</del> To avoid annoying steps, you can use <code>cd</code> to go back to your home directory, then open gedit (a text editor) by running <code>sudo gedit .bashrc</code> (remember to use <code>sudo install gedit</code> if you don't have one), enter your password, and then scroll down to the bottom of a bunch of test after a bunch of if statements. Add two lines of code: 
-<code class="hljs properties">source /opt/ros/noetic/setup.bash<br>source ~/[your folder name]/devel/setup.bash</code><br>
+<code class="hljs properties">source /opt/ros/noetic/setup.bash<br>source ~/[your folder name]/devel/setup.bash</code>
 
 6. When ever you need to change the source (when you are working on different projects), for instance, from <code>test_ws</code> to <code>catkin_ws</code>, change the line, quote (using <code>#</code>) and create a new line, for instance:
-<code class="hljs properties"> #source ~/catkin_ws/devel/setup.bash <br> source ~/test_ws/devel/setup.bash</code><br>
+<code class="hljs properties"> #source ~/catkin_ws/devel/setup.bash <br> source ~/test_ws/devel/setup.bash</code>
 
 7. You've finished creating directories and soursing files. Now we need packages. Depending on the language you use (can be Python or C++), you may need different packages. Use <code>cd [your directory]</code> to your src folder (for instance, test_ws/src), and then type <code>catkin_create_pkg [all the packages you need]</code>. If you need C++, use roscpp; if you use Python, use rospy. Here is one example:
 <code class="hljs properties">catkin_create_pkg roscpp rospy</code>
