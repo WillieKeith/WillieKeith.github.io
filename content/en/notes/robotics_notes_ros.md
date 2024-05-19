@@ -15,8 +15,8 @@ toc: false
 5. <del>Now you need to source your file by <code>source devel/setup.bash</code>. Each time you run the program, you have to source your directory when you start your terminal by running <code>source [your directory name]/devel/setup.bash</code> after you open your linux terminal.</del> To avoid annoying steps, you can use <code>cd</code> to go back to your home directory, then open gedit (a text editor) by running <code>sudo gedit .bashrc</code> (remember to use <code>sudo install gedit</code> if you don't have one), enter your password, and then scroll down to the bottom of a bunch of test after a bunch of if statements. Add two lines of code: 
 - <code>source /opt/ros/noetic/setup.bash</code> - <code>source ~/[your folder name]/devel/setup.bash</code>.
 6. When ever you need to change the source (when you are working on different projects), for instance, from <code>test_ws</code> to <code>catkin_ws</code>, change the line, quote (using <code>#</code>) and create a new line, for instance:
-    - <code>#source ~/catkin_ws/devel/setup.bash</code> <- Quoted
-    - <code>source ~/test_ws/devel/setup.bash</code> <- This line is activated.
+    - <code>#source ~/catkin_ws/devel/setup.bash</code>
+    - <code>source ~/test_ws/devel/setup.bash</code>
 7. Congrats, you have created a new workspace!
 ---
 #### ROS??? Tell me more about it.
