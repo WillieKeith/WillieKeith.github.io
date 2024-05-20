@@ -1,6 +1,6 @@
 ---
 title: "ROS1: Create & Initialize a Ros Python Node (Author: Chat GPT. I am still editing)"
-date: 2024-05-19T23:45:32-04:00
+date: 2024-05-26T23:45:32-04:00
 author: "Weifan Zhou"
 slug:
 draft: false
