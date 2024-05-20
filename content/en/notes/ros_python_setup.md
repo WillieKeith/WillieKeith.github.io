@@ -1,12 +1,12 @@
 ---
-title: "ROS1: Create & Initialize a Ros Python Node (Author: Chat GPT)"
+title: "ROS1: Create & Initialize a Ros Python Node (Author: Chat GPT. I am still editing)"
 date: 2024-05-19T23:45:32-04:00
 author: "Weifan Zhou"
 slug:
 draft: false
 toc: false
 ---
-<div class = "reminder">This note was originally written by Chat GPT 4o. I deleted one step.</div>
+<div class = "reminder">This note was originally written by Chat GPT 4o. I deleted one step. I am still editing.</div>
 
 To create and initialize a ROS (Robot Operating System) Python file, follow these steps. This example assumes you are using ROS 1 (e.g., Melodic, Noetic).
 
