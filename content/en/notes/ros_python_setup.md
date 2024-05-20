@@ -6,7 +6,7 @@ slug:
 draft: false
 toc: false
 ---
-<div class = "reminder">This note was written by Chat GPT 4o.</div>
+<div class = "reminder">This note was originally written by Chat GPT 4o. I deleted one step.</div>
 
 To create and initialize a ROS (Robot Operating System) Python file, follow these steps. This example assumes you are using ROS 1 (e.g., Melodic, Noetic).
 
@@ -60,14 +60,7 @@ To create and initialize a ROS (Robot Operating System) Python file, follow thes
            pass
    ```
 
-4. **Build the Workspace**:
-   ```bash
-   cd ~/catkin_ws
-   catkin_make
-   source devel/setup.bash
-   ```
-
-5. **Run the Node**:
+4. **Run the Node**:
    Make sure the ROS master is running:
    ```bash
    roscore
@@ -76,15 +69,17 @@ To create and initialize a ROS (Robot Operating System) Python file, follow thes
    Open a new terminal, source your workspace, and run the node:
    ```bash
    cd ~/catkin_ws
-   source devel/setup.bash
+   source devel/setup.bash    #See note
    rosrun my_package my_node.py
    ```
 
-6. **Publishing to the Node (for testing)**:
+   <div class = "note">You can also use gedit. See my last note.</div>
+
+5. **Publishing to the Node (for testing)**:
    Open another terminal, source your workspace, and publish to the `chatter` topic to see your node in action:
    ```bash
    cd ~/catkin_ws
-   source devel/setup.bash
+   source devel/setup.bash    # You can also use gedit.
    rostopic pub /chatter std_msgs/String "Hello, ROS!" --once
    ```
 
