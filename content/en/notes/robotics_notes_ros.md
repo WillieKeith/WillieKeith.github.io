@@ -50,7 +50,7 @@ To design and run a robot, one easy way is to use <a href="https://www.ros.org/"
 - Congrats, you edited the code file! But to keep safe, I recommend after using gedit, still run source code whenever you are not sure if you should run it or not.
 
 <div class = "reminder"> When ever you need to change the source (when you are working on different projects), for instance, from <code>test_ws</code> to <code>catkin_ws</code>, change the line, quote (using <code>#</code>) and create a new line, for instance:
-<code class="hljs properties"> #source ~/catkin_ws/devel/setup.bash <br> source ~/test_ws/devel/setup.bash</code></div>
+<code class="hljs properties"> source ~/catkin_ws/devel/setup.bash <br> #source ~/test_ws/devel/setup.bash</code></div>
 
 7. You've finished creating directories and soursing files. Now we need packages. Depending on the language you use (can be Python or C++), you may need different packages. Use <code>cd [your directory]/src</code> to your source folder (for instance, test_ws/src), and then type <code>catkin_create_pkg [your package folder] [all the shenanigans you need]</code>. If you need C++, use roscpp; if you use Python, use rospy. Here's the example code for step 7:
 <code class="hljs properties">cd test_ws/src <br> catkin_create_pkg this_is_a_package roscpp rospy std_msg</code>
