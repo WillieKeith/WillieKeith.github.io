@@ -16,9 +16,9 @@ I will NOT provide steps in detail because that's gonna be quite long. But I rec
 
 1. How to add a layer?
 - You can go to Layer -- Data Source Manager -- Vector. To add your file, click the three dot... Find your shapefile and add it.
-<figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+- <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/qgis/image-1.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/qgis/image-1.jpg width="300" style="display: block; margin: 0 auto" alt="add a layer">
+<img itemprop=thumbnail src=/media/qgis/image-1.jpg width="600" style="display: block; margin: 0 auto" alt="add a layer">
 </a>
 </figure>
 
@@ -27,24 +27,20 @@ I will NOT provide steps in detail because that's gonna be quite long. But I rec
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jPXSMBgA8Rg?si=2E7_hP6Y1xWw8GCi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 3. Select by location?
-- This one:
-- <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+- This one:<figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/qgis/image-2.jpg itemprop=contentUrl>
 <img itemprop=thumbnail src=/media/qgis/image-2.jpg width="30" style="display: block; margin: 0 auto" alt="select by location icon">
 </a>
 </figure>
 
-
 4. Change the coordinate system?
 - Right click on your layer -- layer CRS.
 
 5. Where's print layout? Legend? Arrow? Blablabla?
-- Look here: 
 - <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
 <a href=/media/qgis/image-3.jpg itemprop=contentUrl>
-<img itemprop=thumbnail src=/media/qgis/image-3.jpg width="300" style="display: block; margin: 0 auto" alt="layer CRS">
-</a>
-</figure>
+<img itemprop=thumbnail src=/media/qgis/image-3.jpg width="300" style="display: block; margin: 0 auto" alt="layer CRS"></a></figure>
+
 - If you need to see the print layout that you've already created, go to layout manager instead.
 - To be more in detail, I think this article will answer your question: <a href = "https://medium.com/introduction-to-critical-spatial-media-beyond-the/qgis-print-layout-end-exporting-8a32f5294edb">QGIS Print Layout and Exporting</a>. 
 
