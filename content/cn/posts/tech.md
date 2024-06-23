@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "科技"
 date: 2024-06-23T11:54:17-04:00
 author: "周未凡"
 slug:
