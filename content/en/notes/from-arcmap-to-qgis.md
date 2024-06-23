@@ -14,7 +14,7 @@ Oh, you don't have a liscense? Or you use MacOS or Linux. Here's another option:
 
 ## Rough Ideas
 
-### 1. How to Add a Layer?
+### 1. How to Add a Vector Layer?
 - Navigate to **Layer** > **Data Source Manager** > **Vector**. To add your file, click the three dots (...) to find your shapefile and add it.
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
   <a href="/media/qgis/image-1.jpg" itemprop="contentUrl">
