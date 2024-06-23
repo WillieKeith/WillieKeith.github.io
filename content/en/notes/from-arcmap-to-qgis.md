@@ -53,4 +53,5 @@ I will NOT provide steps in detail because that's gonna be quite long. But I rec
 
 7. How to add XY data?
 - Make sure you data is csv. If you wish to import xls directly, you can also add a plugin (I forgot which one. Please search it on google).
-- Check this video.<iframe width="560" height="315" src="https://www.youtube.com/embed/Qo8PM8Qsqwk?si=iG6WohchXl9HFLlp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Check this video.
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/Qo8PM8Qsqwk?si=iG6WohchXl9HFLlp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
