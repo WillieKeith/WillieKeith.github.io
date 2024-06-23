@@ -15,8 +15,12 @@ I will NOT provide steps in detail because that's gonna be quite long. But I rec
 #### Rough Ideas
 
 1. How to add a layer?
-- You can use this button ![vector data](image.png) to add a shapefile. Or you can go to Layer -- Data Source Manager -- Vector. To add your file, click the three dot... Find your shapefile and add it.
-![add vector data](image-1.png)
+- You can go to Layer -- Data Source Manager -- Vector. To add your file, click the three dot... Find your shapefile and add it.
+<figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+<a href=/media/qgis/image-1.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/qgis/image-1.jpg width="300" style="display: block; margin: 0 auto" alt="add a layer">
+</a>
+</figure>
 
 2. Select by attribute?
 - In QGIS it's not called "select by attribute". Instead, it's called "select features by value" or "select features by expression". Watch this video:
@@ -24,14 +28,23 @@ I will NOT provide steps in detail because that's gonna be quite long. But I rec
 
 3. Select by location?
 - This one:
-- ![select by location](image-2.png)
+- <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+<a href=/media/qgis/image-2.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/qgis/image-2.jpg width="30" style="display: block; margin: 0 auto" alt="select by location icon">
+</a>
+</figure>
+
 
 4. Change the coordinate system?
 - Right click on your layer -- layer CRS.
 
 5. Where's print layout? Legend? Arrow? Blablabla?
 - Look here: 
-- ![alt text](image-3.png)
+- <figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+<a href=/media/qgis/image-3.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/qgis/image-3.jpg width="300" style="display: block; margin: 0 auto" alt="layer CRS">
+</a>
+</figure>
 - If you need to see the print layout that you've already created, go to layout manager instead.
 - To be more in detail, I think this article will answer your question: <a href = "https://medium.com/introduction-to-critical-spatial-media-beyond-the/qgis-print-layout-end-exporting-8a32f5294edb">QGIS Print Layout and Exporting</a>. 
 
