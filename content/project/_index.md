@@ -29,9 +29,6 @@ There are 3 projects:
     - This is the final project of Intro GIS class, using ArcMaps (it retires later, you know...The next semester I'm gonna switch to ArcGIS Pro.)
     - [Cholera Death Map](/map/)
 
-
-{{< endcolumn >}}
-
 ### Group Project: To Do List
 
 A simple todo list web app (though it did not use database) finished by 4 bachelor students.This is a course project on Fall 2023 from Software Dev course.
