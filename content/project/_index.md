@@ -24,9 +24,9 @@ Those are projects of CS377. Obviously, there are some flaws, such as inappropri
 
 ### Maps
 
-- Intro GIS, Spring 2024
-    - This is the final project of Intro GIS class, using ArcMaps (it retires later, you know...The next semester I'm gonna switch to ArcGIS Pro.)
-    - [Cholera Death Map](https://weifanz.github.io/posts/2024/05/08/cholera-death-map/)
+Intro GIS, Spring 2024
+- This is the final project of Intro GIS class, using ArcMaps (it retires later, you know...The next semester I'm gonna switch to ArcGIS Pro.)
+- [Cholera Death Map](https://weifanz.github.io/posts/2024/05/08/cholera-death-map/)
 
 ### Group Project: To Do List
 
