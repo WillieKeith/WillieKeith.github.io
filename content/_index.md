@@ -12,6 +12,4 @@ Email: wzhou@iwu.edu
 
 <a href = "Resume -- Weifan Zhou.pdf" target = "_blank"> Resume 简历<a>
 
----
-
 Thanks to <a href = "https://hongtaoh.com/" target = "_blank">Hongtao Hao</a> providing templates and instructions of this website.
