@@ -4,9 +4,9 @@ title: Home
 
 {{<figure src="Weifan.jpg" title="Photo taken by my friend in 2024, Canada (照片由朋友拍摄于2024年)" width="450">}}
 
-My name is Weifan Zhou (with my alternative name Flora). I am a Computer Science student at Illinois Wesleyan University.   
+I am Weifan Zhou (with my alternative name Flora), a physics student (computer science in my first two years) at Illinois Wesleyan University.   
 
-我是周未凡，目前就读于伊利诺伊卫斯理大学计算机系。  
+我是周未凡，目前就读于伊利诺伊卫斯理大学物理系（我前两年曾经是计算机系）。  
 
 Email: wzhou@iwu.edu
 
