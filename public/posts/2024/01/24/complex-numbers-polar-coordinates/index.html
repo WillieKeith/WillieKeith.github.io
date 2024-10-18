@@ -1,0 +1,184 @@
+<a name="top"></a>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Weifan Zhou&#39;s Personal Blog</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+            <link rel="icon" href="https://weifanz.github.io/media/Weifan-icon1.png">
+
+
+
+
+
+  </head>
+  
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav" >
+      <a href="/" class="nav-logo">
+        <img src="/media/Weifan-icon1.png"
+         width="50"
+         height="50"
+         alt="Hugo-ht">
+      </a>
+
+      <ul class="nav-links" >
+         
+         
+         
+         <li><a href="/">Home</a></li>
+         
+         <li><a href="/project/">Project</a></li>
+         
+         <li><a href="/posts/">Posts</a></li>
+         
+      </ul>
+</nav>
+      </header>
+
+<main class = "content" role="main">
+<div style="text-align: center">
+
+<h1>Complex Numbers &amp; Polar Coordinates</h1>
+
+<p>Weifan Zhou 
+ / 2024-01-24 </p>
+
+<hr/>
+</div>
+
+<span class="article-toolbar">
+  
+  
+  
+  
+  
+  
+  
+  <a href='https://github.com/weifanz/weifanz.gitbub.io/edit/master/content/posts/2024-01-24-complex_number.md'style="font-size: 24px; color: black;" target="_blank"><i class="fa fa-edit" aria-hidden="true" title="Suggest an edit of this page"></i>
+  </a>
+  
+  
+  
+</span>
+
+
+
+<div class="body-text list-text">
+<p>This is a complex number: $$z = x + iy$$
+A complex number, as a combination of a real number (<code>$x$</code>) and an imagenary number (<code>$iy$</code>, or <code>$yi$</code>, it doesn&rsquo;t matter) can be sketched with 2-dimentional axis. Note that <code>$y$</code> is a real number, and <code>$i$</code> is an imagenary number (<code>$i = \sqrt{-1}$</code>).</p>
+<p>This is an example from <a href="https://mathbitsnotebook.com/Algebra2/ComplexNumbers/CPGraphs.html" target="_blank" rel="noreferrer noopener">mathbits</a>
+
+:</p>
+<figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+<a href=/media/complex_num1.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/complex_num1.jpg width="300" style="display: block; margin: 0 auto" alt="sketch complex number">
+</a>
+</figure>
+<p>The real axis represents the real number <code>$x$</code>, with each unit representing 1. The imagenary axis represents the imagenary part <code>$iy$</code>, each unit representing <code>$i$</code>, and <code>$y$</code> represents the number of units.</p>
+<p>Also, to represent an complex number with number pairs, we can use the format of <code>$(x, y)$</code>. For example, <code>$i=2+3i$</code> can be noted down as <code>$(2,3)$</code>.</p>
+<p>If you have learned Calc 2, you may have heard about polar coordinates. We can also use polar system to sketch complex numbers.</p>
+<p>For example, <code>$z=x+iy$</code> can be represented as:
+$$z= r(\cos{\theta}+i\sin{\theta})$$
+Here is an image copied from <a href="https://www.onlinemathlearning.com/complex-plane-hsn-cn4.html" target="_blank" rel="noreferrer noopener">Online Math Learning Website</a>
+
+:</p>
+<figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+<a href=/media/complex_num2.jpg itemprop=contentUrl>
+<img itemprop=thumbnail src=/media/complex_num2.jpg width="400" style="display: block; margin: 0 auto" alt="sketch complex number">
+</a>
+</figure>
+<p>To use pairs, we can note down in <code>$(r, \theta)$</code> form. For example, <code>$z=1+i$</code> can be represented as <code>$(\sqrt{2}, \frac{\pi}{4})$</code> (45 degree angle), or to be more cautious let&rsquo;s write down <code>$(\sqrt{2},\frac{\pi}{4}+2k\pi)$</code>, if you rotate extra 360 degrees, 720 degrees, etc. You are back to where 45 degree line locates.</p>
+<p>If you have learned Calc 2, you may also have heard of Taylor Series. You can use Taylor Series to get a wierd form:
+$$\cos{\theta}+i\sin{\theta}=e^{i\theta}$$</p>
+<p>Here is a proof from YouTube: <iframe width="560" height="315" src="https://www.youtube.com/embed/GqvDUcU8F3I?si=VGYh7lccROpKH5nW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>Then, the complex number <code>$z=x+iy$</code> can be represented as:
+$$z=r(\cos{\theta}+i\sin{\theta})=re^{i\theta}$$</p>
+<p>When you have the <code>$e$</code> form of the complex number, if you would like to calculate the root or power of it, it&rsquo;s becoming simpler.</p>
+<p>Hmm, why do I care about this?
+Well, if someone ask you to calculate the root of complex numbers, the power of complex numbers, the mod of complex number, all the process gets easier.</p>
+<p>For example, how to calculate <code>$\left|\left(\frac{1+i}{1-i}\right)^5\right|$</code>? I mean the mode, or the length of <code>$\left(\frac{1+i}{1-i}\right)^5$</code>.
+You can calculate the power first, or you can calculate the faction, but I am too lazy to do that. What about using the magical <code>$re^{i\theta}$</code>?</p>
+<p>$$ \left|\left(\frac{1+i}{1-i}\right)^5\right|
+= \left|\left(\frac{\sqrt{2}e^{i(\frac{\pi}{4})}}{\sqrt{2}e^{i(-\frac{\pi}{4})}}\right)^5\right|
+= \left|\left(e^{i\frac{\pi}{2}}\right)^5\right|
+= \left|e^{i\frac{5\pi}{2}}\right|
+= 1$$</p>
+<p>Apologize: I am too lazy to type out the case of <code>$2k\pi$</code> and draw the curve.</p>
+
+<p style="color:#777;">Last modified on 2024-02-03</p>
+</div>
+<a href="#top"><i class="fa fa-chevron-up" style="font-size: 30px; color: black;"></i></a>
+
+</main>
+
+<footer class="footer">
+
+<script src="https://utteranc.es/client.js"
+        repo="weifanz/weifanz.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+  <script type="text/javascript" src="/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" src="/js/center-img.js"></script>
+
+
+
+     <ul class="footer-links">
+      
+       
+       
+       <li><a href="/posts/index.xml" type="application/rss+xml" title="RSS feed">
+       
+       <li>
+       
+        <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+       
+        License
+        <i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i> 
+        </a>
+       </li>
+       
+     </ul>
+     <div class="copyright-text">
+            
+            ©
+            
+            Weifan Zhou
+            
+            2023-2024
+            
+     </div>
+
+</footer>
+
+
+
+
+

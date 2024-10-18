@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo-HT</title>
-    <link>https://WillieKeith.github.io/categories/</link>
-    <description>Recent content in Categories on Hugo-HT</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on Weifan Zhou&#39;s Personal Blog</title>
+    <link>https://weifanz.github.io/categories/</link>
+    <description>Recent content in Categories on Weifan Zhou&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 13:42:27 -0500</lastBuildDate><atom:link href="https://WillieKeith.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>https://WillieKeith.github.io/categories/test/</link>
-      <pubDate>Thu, 07 Jan 2021 13:42:27 -0500</pubDate>
-      
-      <guid>https://WillieKeith.github.io/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>classical</title>
-      <link>https://WillieKeith.github.io/categories/classical/</link>
-      <pubDate>Thu, 01 Oct 1925 00:00:00 +0000</pubDate>
-      
-      <guid>https://WillieKeith.github.io/categories/classical/</guid>
-      <description></description>
-    </item>
-    
+    <atom:link href="https://weifanz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
